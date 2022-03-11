@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
  *main - main fuction of the program
- *@i: integer to be printed
  *Return: Terminates the program
  */
 int main(void)
@@ -13,3 +12,4 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
+}
