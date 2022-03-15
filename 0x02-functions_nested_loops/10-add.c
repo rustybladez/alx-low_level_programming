@@ -3,7 +3,7 @@
  * add - adds two integers
  * @a: number
  * @b: number
- * Return: returns the addition 
+ * Return: returns the addition
  */
 int add(int a, int b)
 {

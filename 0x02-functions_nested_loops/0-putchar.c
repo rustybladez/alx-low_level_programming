@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  * main- main function of the program
+ * Description: returns 0
  * Return- terminates the program
  */
 int main(void)
