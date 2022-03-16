@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - check the code
+ * print_alphabet_x10 - check the code
  * Return: void
  */
 void print_alphabet_x10(void)
@@ -8,7 +8,7 @@ void print_alphabet_x10(void)
 	char alphabet;
 	int times;
 
-	for (times = 0; times <= 10; times++)
+	for (times = 0; times <= 11; times++)
 	{
 		for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 		{

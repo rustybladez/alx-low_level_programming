@@ -1,8 +1,8 @@
 #include "main.h"
 /**
  * main- main function of the program
- * Description: returns 0
- * Return- terminates the program
+ * Description: prints _putchar
+ * Return- 0 (Success)
  */
 int main(void)
 {
