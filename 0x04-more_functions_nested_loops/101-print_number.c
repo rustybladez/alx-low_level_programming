@@ -1,9 +1,9 @@
 #include "main.h"
 
-/** 
- * print_number - prints an integer
- * @n: integer
- * Return: void
+/**
+ * print_number - prints an integer.
+ * @n: input integer.
+ * Return: no return.
  */
 void print_number(int n)
 {
@@ -24,7 +24,7 @@ void print_number(int n)
 
 	while (d > 9)
 	{
-		d / = 10;
+		d /= 10;
 		count *= 10;
 	}
 
